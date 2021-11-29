@@ -5,15 +5,17 @@
 
 <p>I'm looking for a job</p>
 
-[![Linkedin: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-mahendra/)](https://www.linkedin.com/in/sahril-mahendra/)
-[![GitHub Sahril Mahendra](https://img.shields.io/github/followers/sahrilmahendra?label=follow&style=social)](https://github.com/sahrilmahendra)
-
+[![Linkedin: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-mahendra/)](https://www.linkedin.com/in/sahril-mahendra/)
+[![Facebook: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/sahril.mahendra/)](https://www.facebook.com/sahril.mahendra/)
+[![GitHub Sahril Mahendra](https://img.shields.io/github/followers/sahrilmahendra?label=SahrilMahendra&style=social)](https://github.com/sahrilmahendra)
+<!-- ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=sahrilmahendra.visitor-badge) -->
 ```javascript
 const sahril = {
     pronouns: "He" | "Him",
     code: ["Golang", "PHP", "HTML", "CSS", "JavaScript", "C++"],
-    tools: ["VS Code for my code editor", "Echo for Golang", "Codeigniter for PHP"],
+    tools: ["VS Code", "Echo for Golang", "Codeigniter for PHP"],
     databases: ["MySQL"],
+    cloudServices: ["Amazon Web Services", "Google Cloud Platform"],
     currentFocus: ["I'm currently learning Golang to build API"]
 };
 ```
