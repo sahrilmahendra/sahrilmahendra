@@ -13,7 +13,7 @@
 const sahril = {
     pronouns: "He" | "Him",
     code: ["Golang", "PHP", "HTML", "CSS", "JavaScript", "C++"],
-    tools: ["VS Code", "Echo for Golang", "Codeigniter for PHP"],
+    tools: ["VS Code", "Echo", "Codeigniter", "Docker"],
     databases: ["MySQL"],
     cloudServices: ["Amazon Web Services", "Google Cloud Platform"],
     currentFocus: ["I'm currently learning Golang to build API"]
