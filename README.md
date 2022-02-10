@@ -1,6 +1,6 @@
 <h2> Hi there 👋</h2>
 <h4>I'm Moch. Syahryil Mahendra!</h4>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>Fresh Graduate | Back End Engineer</em></p>
 
 <p>I'm looking for a job</p>
