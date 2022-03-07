@@ -3,8 +3,6 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <p><em>Fresh Graduate | Back End Engineer</em></p>
 
-<p>I'm looking for a job</p>
-
 [![Linkedin: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-mahendra/)](https://www.linkedin.com/in/sahril-mahendra/)
 [![Facebook: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/sahril.mahendra/)](https://www.facebook.com/sahril.mahendra/)
 [![GitHub Sahril Mahendra](https://img.shields.io/github/followers/sahrilmahendra?label=SahrilMahendra&style=social)](https://github.com/sahrilmahendra)
