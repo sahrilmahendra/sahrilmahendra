@@ -6,28 +6,24 @@
 [![Linkedin: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-mahendra/)](https://www.linkedin.com/in/sahril-mahendra/)
 [![Facebook: Sahril Mahendra](https://img.shields.io/badge/-SahrilMahendra-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/sahril.mahendra/)](https://www.facebook.com/sahril.mahendra/)
 [![GitHub Sahril Mahendra](https://img.shields.io/github/followers/sahrilmahendra?label=SahrilMahendra&style=social)](https://github.com/sahrilmahendra)
-<!-- ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=sahrilmahendra.visitor-badge) -->
+[![GCP Skill Boost](https://img.shields.io/badge/GoogleCloud-SkillBoost-blue)](https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35)
+
+
+<hr/>
+<a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
+  <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
+</a>
+<hr/>
+
 ```javascript
 const sahril = {
-    pronouns: "He" | "Him",
-    code: ["Golang", "PHP", "HTML", "CSS", "JavaScript", "C++"],
-    databases: ["MySQL"],
-    cloudServices: ["Amazon Web Services", "Google Cloud Platform"],
-    currentFocus: ["I'm currently learning Golang to build API"]
+    name: "👨‍💻 Moch. Syahryil Mahendra",
+    pronouns: ["he", "him"],
+    languages: ["🟦 Go", "🐘 PHP", "🧱 HTML", "🎨 CSS", "⚡ JavaScript", "💻 C++"],
+    databases: ["🛢️ MySQL"],
+    cloudServices: ["☁️ AWS", "☁️ GCP"],
+    tools: ["🐙 Git", "🐳 Docker", "🧠 Redis", "📬 Postman"],
+    ide: ["📝 VS Code", "🐹 Goland"]
 };
 ```
-<!-- ##### I'm a Fresh Graduate, Back End DeveloperI’m currently learning Golang to build API -->
-<!--
-**sahrilmahendra/sahrilmahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
