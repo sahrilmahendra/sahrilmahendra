@@ -8,7 +8,8 @@
 [![GitHub Sahril Mahendra](https://img.shields.io/github/followers/sahrilmahendra?label=SahrilMahendra&style=social)](https://github.com/sahrilmahendra)
 [![GCP Skill Boost](https://img.shields.io/badge/GoogleCloud-SkillBoost-blue)](https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35)
 
-
+<hr/>
+<h3 align="center">GCP Skill Boost Badge</h3>
 <hr/>
 <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
   <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
