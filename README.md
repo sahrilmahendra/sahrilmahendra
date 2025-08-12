@@ -11,12 +11,14 @@
 <hr/>
 <h3 align="center">GCP Skill Boost Badge</h3>
 <hr/>
-<a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
-  <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17435168">
-  <img src="assets/api-design-and-fundamentals-on-apigee.png" alt="api design and fundamental on apigee" width="150" style="border-radius: 10%;"/>
-</a>
+<div align="center">
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
+      <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17435168">
+      <img src="assets/api-design-and-fundamentals-on-apigee.png" alt="api design and fundamental on apigee" width="150" style="border-radius: 10%;"/>
+    </a>
+</div>
 <hr/>
 
 ```javascript
