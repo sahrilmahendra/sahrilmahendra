@@ -18,6 +18,9 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17435168">
       <img src="assets/api-design-and-fundamentals-on-apigee.png" alt="api design and fundamental on apigee" width="150" style="border-radius: 10%;"/>
     </a>
+    <a href="https://www.cloudskillsboost.google/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17628817">
+      <img src="assets/future-ready-skills-aug-2025.png" alt="skill boost arcade - future ready skills aug 2025" width="150" style="border-radius: 10%;"/>
+    </a>
 </div>
 <hr/>
 
