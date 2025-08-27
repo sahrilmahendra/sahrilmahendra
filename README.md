@@ -13,16 +13,25 @@
 <hr/>
 <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
-      <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
+      <img src="assets/google-cloud-fundamental-core-infrastructure.png" alt="fundamental core infrastructure" width="100" style="border-radius: 10%;"/>
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17435168">
-      <img src="assets/api-design-and-fundamentals-on-apigee.png" alt="api design and fundamental on apigee" width="150" style="border-radius: 10%;"/>
+      <img src="assets/api-design-and-fundamentals-on-apigee.png" alt="api design and fundamental on apigee" width="100" style="border-radius: 10%;"/>
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17628817">
-      <img src="assets/future-ready-skills-aug-2025.png" alt="skill boost arcade - future ready skills aug 2025" width="150" style="border-radius: 10%;"/>
+      <img src="assets/future-ready-skills-aug-2025.png" alt="skill boost arcade - future ready skills aug 2025" width="100" style="border-radius: 10%;"/>
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17724343">
-      <img src="assets/arcade-base-camp-aug-2025.png" alt="skill boost arcade - basecamp aug 2025" width="150" style="border-radius: 10%;"/>
+      <img src="assets/arcade-base-camp-aug-2025.png" alt="skill boost arcade - basecamp aug 2025" width="100" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17772416">
+      <img src="assets/arcade-level-1-aug-2025.png" alt="arcade level 1 - aug 2025" width="100" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17823461">
+      <img src="assets/arcade-level-2-aug-2025.png" alt="arcade level 2 - aug 2025" width="100" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17836793">
+      <img src="assets/arcade-level-3-aug-2025.png" alt="arcade level 3 - aug 2025" width="100" style="border-radius: 10%;"/>
     </a>
 </div>
 <hr/>
