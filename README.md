@@ -21,7 +21,7 @@ const sahril = {
 ```
 
 <hr/>
-<h3 align="center">GCP Skill Boost Badge</h3>
+<h3 align="center">Google Cloud Skill Boost Badge</h3>
 <hr/>
 <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
@@ -101,6 +101,12 @@ const sahril = {
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18177170">
       <img src="assets/Integrate%20BigQuery%20Data%20and%20Google%20Workspace%20using%20Apps%20Script.png" alt="Integrate BigQuery Data and Google Workspace using Apps Script" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18199996">
+      <img src="assets/Store,%20Process,%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Command%20Line.png" alt="Store, Process, and Manage Data on Google Cloud - Command Line" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18200870">
+      <img src="assets/Store,%20Process,%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Console.png" alt="Store, Process, and Manage Data on Google Cloud - Console" width="150" style="border-radius: 10%;"/>
     </a>
 </div>
 <hr/>
