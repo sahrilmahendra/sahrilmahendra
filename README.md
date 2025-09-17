@@ -108,6 +108,33 @@ const sahril = {
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18200870">
       <img src="assets/Store,%20Process,%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Console.png" alt="Store, Process, and Manage Data on Google Cloud - Console" width="150" style="border-radius: 10%;"/>
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18247807">
+      <img src="assets/Skills%20Scribble.png" alt="Skills Scribble" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18248047">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20September%202025%20Week%201.png" alt="Skills Boost Arcade Trivia September 2025 Week 1" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18249169">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20September%202025%20Week%202.png" alt="Skills Boost Arcade Trivia September 2025 Week 2" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18261423">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20September%202025%20Week%203.png" alt="Skills Boost Arcade Trivia September 2025 Week 3" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18267931">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20September%202025%20Week%204.png" alt="Skills Boost Arcade Trivia September 2025 Week 4" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18278181">
+      <img src="assets/Skills%20Boost%20Arcade%20Base%20Camp%20September%202025.png" alt="Skills Boost Arcade Base Camp September 2025" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18302018">
+      <img src="assets/Level%201%20-%20Cloud%20Infrastructure%20and%20Data%20Foundation.png" alt="Level 1 - Cloud Infrastructure and Data Foundation" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18346782">
+      <img src="assets/Level%202%20-%20AI%20and%20Data%20Innovation%20on%20Google%20Cloud.png" alt="Level 2 - AI and Data Innovation on Google Cloud" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18347504">
+      <img src="assets/Level%203%20-%20Developer%20Essentials.png" alt="Level 3 - Developer Essentials" width="150" style="border-radius: 10%;"/>
+    </a>
 </div>
 <hr/>
 
