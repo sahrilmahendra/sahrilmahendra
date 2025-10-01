@@ -21,8 +21,13 @@ const sahril = {
 ```
 
 <hr/>
-<h3 align="center">Google Cloud Skill Boost Badge</h3>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35">
+        <h3 align="center">Google Cloud Skill Boost Badge</h3>
+    </a>
 <hr/>
+
+<details>
+  <summary>Click to expand badges</summary>
 <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/17276912">
       <img src="assets/google%20cloud%20fundamental%20core%20infrastructure.png" alt="fundamental core infrastructure" width="150" style="border-radius: 10%;"/>
@@ -135,6 +140,16 @@ const sahril = {
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18347504">
       <img src="assets/Level%203%20-%20Developer%20Essentials.png" alt="Level 3 - Developer Essentials" width="150" style="border-radius: 10%;"/>
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18426172">
+      <img src="assets/API%20Security%20on%20Google%20Cloud's%20Apigee%20API%20Platform.png" alt="API Security on Google Cloud's Apigee API Platform" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18666618">
+      <img src="assets/Skills%20Boost%20Arcade%20Certification%20Zone%20September%202025.png" alt="Skills Boost Arcade Certification Zone September 2025" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18732390">
+      <img src="assets/Work%20Meets%20Play-%20Scaling%20Success.png" alt="Work Meets Play- Scaling Success" width="150" style="border-radius: 10%;"/>
+    </a>
 </div>
+</details> 
 <hr/>
 
