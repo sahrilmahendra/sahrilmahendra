@@ -149,6 +149,42 @@ const sahril = {
     <a href="https://www.cloudskillsboost.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/18732390">
       <img src="assets/Work%20Meets%20Play-%20Scaling%20Success.png" alt="Work Meets Play- Scaling Success" width="150" style="border-radius: 10%;"/>
     </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19039037">
+      <img src="assets/Lights%20&%20Logic.png" alt="Lights & Logic" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19199970">
+      <img src="assets/Diwali%20Dialogues.png" alt="Diwali Dialogues" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19236791">
+      <img src="assets/Skills%20Boost%20Arcade%20Base%20Camp%20October%202025.png" alt="Skills Boost Arcade Base Camp October 2025" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19344787">
+      <img src="assets/Level%201%20-%20Scalable%20Systems.png" alt="Level 1: Scalable Systems" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19378215">
+      <img src="assets/Level%202%20-%20Cloud%20Operations%20and%20Application%20Management.png" alt="Level 2: Cloud Operations and Application Management" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19429351">
+      <img src="assets/Level%203%20-%20Generative%20AI.png" alt="Level 3: Generative AI" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19513444">
+      <img src="assets/Google%20Skills%20Arcade%20Certification%20Zone%20October%202025.png" alt="Google Skills Arcade Certification Zone October 2025" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19569072">
+      <img src="assets/Work%20Meets%20Play%20-%20AI%20Assured.png" alt="Work Meets Play: AI Assured" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19651927">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20October%202025%20Week%201.png" alt="Skills Boost Arcade Trivia October 2025 Week 1" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19660561">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20October%202025%20Week%202.png" alt="Skills Boost Arcade Trivia October 2025 Week 2" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19700694">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20October%202025%20Week%203.png" alt="Skills Boost Arcade Trivia October 2025 Week 3" width="150" style="border-radius: 10%;"/>
+    </a>
+    <a href="https://www.skills.google/public_profiles/55ec72c1-e7c2-426e-94d5-339733cc7e35/badges/19700999">
+      <img src="assets/Skills%20Boost%20Arcade%20Trivia%20October%202025%20Week%204.png" alt="Skills Boost Arcade Trivia October 2025 Week 4" width="150" style="border-radius: 10%;"/>
+    </a>
 </div>
 </details> 
 <hr/>
